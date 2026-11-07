@@ -1,0 +1,116 @@
+[
+  {
+    "id": "1",
+    "title": "CANAL INICIAL",
+    "file": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "2",
+    "title": "SONY CINE",
+    "file": "https://a-cdn.klowdtv.com/803B48A/a-klowdtv.com/live1/cine_720p/playlist.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "3",
+    "title": "SONY EXITOS",
+    "file": "https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "4",
+    "title": "SONY ACCION",
+    "file": "https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "5",
+    "title": "SONY SERIES COMEDIA",
+    "file": "https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "6",
+    "title": "SONY EXITOS COMEDIA",
+    "file": "https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "7",
+    "title": "SONY ONE",
+    "file": "https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "8",
+    "title": "TLENOVELAS",
+    "file": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "9",
+    "title": "AMERICA TV",
+    "file": "https://dbrb49pjoymg4.cloudfront.net/10001/99951140/hls/master.m3u8?ads.xumo_channelId=99951140",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "10",
+    "title": "AZTECA UNO",
+    "file": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "11",
+    "title": "ADN 40",
+    "file": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "12",
+    "title": "IMAGEN",
+    "file": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "13",
+    "title": "DW EN ESPAÑOL",
+    "file": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "14",
+    "title": "TELEMUNDO 51",
+    "file": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "15",
+    "title": "TVE",
+    "file": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "16",
+    "title": "IT DEPORTE",
+    "file": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "17",
+    "title": "ESTRELLA TV",
+    "file": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "18",
+    "title": "AMC",
+    "file": "https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "19",
+    "title": "VENEVISION",
+    "file": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  }
+]
