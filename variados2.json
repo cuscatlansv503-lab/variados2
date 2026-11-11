@@ -135,5 +135,11 @@
     "title": "Aguacate tv",
     "file": "https://stream.aguacatetv.com:3949/hybrid/play.m3u8",
     "image": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg"
+    },
+    {
+    "id": "24",
+    "title": "Telesur",
+    "file": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8",
+    "image": "https://i.imgur.com/P50VjRX.png"
     }
 ]
