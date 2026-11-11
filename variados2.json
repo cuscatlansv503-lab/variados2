@@ -118,5 +118,11 @@
     "title": "por definir",
     "file": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8",
     "image": "https://files.catbox.moe/ilxsdb.png"
-  }
+  },
+    {
+    "id": "21",
+    "title": "Televen",
+    "file": "http://38.134.250.110:8000/play/a02i/index.m3u8",
+    "image": "https://i.imgur.com/cxvkUvK.png"
+    }
 ]
