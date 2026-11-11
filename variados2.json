@@ -129,5 +129,11 @@
     "title": "kandela tv",
     "file": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
     "image": "https://i.imgur.com/cCFxyIp.jpg"
+    },
+    {
+    "id": "23",
+    "title": "Aguacate tv",
+    "file": "https://stream.aguacatetv.com:3949/hybrid/play.m3u8",
+    "image": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg"
     }
 ]
