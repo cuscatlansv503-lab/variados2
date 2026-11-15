@@ -165,5 +165,11 @@
     "title": "Por definir",
     "file": "https://183.giatvcdn.com/giatvplayout7/giatv-211420/playlist.m3u8",
     "image": "https://files.catbox.moe/ilxsdb.png"
+  },
+  {
+    "id": "29",
+    "title": "Boliviatv",
+    "file": "https://183.giatvcdn.com/ssh101/ssh101/mixboliviatvhd/playlist.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
   }
 ]
