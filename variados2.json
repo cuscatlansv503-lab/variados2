@@ -141,5 +141,11 @@
     "title": "Telesur",
     "file": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8",
     "image": "https://i.imgur.com/P50VjRX.png"
-    }
+    }, 
+  {
+    "id": "25",
+    "title": "Los Simpson",
+    "file": "https://183.giatvcdn.com/giatvplayout7/giatv-211492/playlist.m3u8",
+    "image": "https://files.catbox.moe/ilxsdb.png"
+  },
 ]
